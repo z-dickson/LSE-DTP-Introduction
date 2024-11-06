@@ -1,0 +1,302 @@
+---
+title: "Doctoral Training Program Workshop"
+subtitle: "Welcome to the LSE!"
+author: Dr. Zachary Dickson
+institute: London School of Economics
+format:
+  revealjs: 
+    fontsize: 1.5em
+    logo: images/LSE_logo.png
+    embed-resources: true
+    slide-number: true
+    preview-links: auto
+    transition: fade
+    citation_package: biblatex
+    transition-speed: fast
+    theme: [serif, custom.scss]
+---
+
+
+
+# Outline {auto-animate="true"}
+- The Department of Methodology
+  - Offerings
+  - Workshops
+- Offerings from the University
+- Development Needs Analysis (DNA)
+
+
+
+
+
+
+# Introduction {auto-animate="true"}
+
+- Welcome to LSE! 
+- My role within the DTP
+- The Department of Methodology
+   - Different offerings and workshops
+- Offerings from the University
+- LSE's Doctoral Training Program
+- Development Needs Analysis (DNA)
+
+
+- *fix the QR code to link to the slide show on Github*
+
+![](images/CIVICA.png){.absolute top=100 right=50 width="300" height="300"}
+
+
+---
+
+
+# Department of Methodology {auto-animate="true"}
+
+
+*The pre-eminent centre for methodological training in the social sciences*
+
+- Diverse training and development opportunities in different formats (e.g. workshops, seminars, courses, and summer schools)
+  - Teaching specialisms including qualitative, quantitative, and mixed-methods training, including statistical and computational approaches
+- Leading researchers in sociology, political science, international relations, anthropology, economics, psychology, criminology, and statistics
+  - Opportunities to engage with cutting-edge research and methodologies
+
+![](images/dept_of_methodology.png){.absolute top=-300 right=50 width="200" height="200"}
+
+::: footer
+[LSE Department of Methodology](https://www.lse.ac.uk/methodology)
+:::
+
+
+
+# Department of Methodology  {auto-animate="true"}
+
+
+- [**Methodology Courses**](https://www.lse.ac.uk/Methodology/Study/Methodology-Courses) 
+  - The Department of Methodology offers a range of courses in research methods and techniques, including qualitative, quantitative, and mixed-methods approaches. 
+
+- [**Short Courses**](https://www.lse.ac.uk/Methodology/Methods-training/Methods-Short-Courses)
+  - Methodology Short Courses are designed to provide students with a comprehensive understanding of research methods and techniques. These courses are open to all LSE students and staff
+
+- [**Methods Surgery** ](https://www.lse.ac.uk/Methodology/Methods-Surgery/Methods-surgery)
+  - The Methods Surgery is a drop-in session where students can get advice on research design, data collection, and analysis from experienced researchers
+
+
+::: footer
+[LSE Department of Methodology](https://www.lse.ac.uk/methodology)
+:::
+
+
+
+# LSE Data Science Institute (DSI) {auto-animate="true}
+ 
+*An interdisciplinary institute fostering the study of data science and AI with a focus on the social sciences through research, education and engagement*
+
+- Events, seminars, and workshops on data science and AI
+- Research projects and collaborations with industry partners
+- Advanced computing facilities and resources
+
+::: footer
+[LSE Data Science Institute](https://www.lse.ac.uk/DSI)
+:::
+
+
+# DSI PhD Affiliate Scheme {auto-animate="true}
+ 
+
+
+*The DSI is launching an Affiliate Scheme for LSE PhD students. We invite doctoral researchers, from any department, who have an interest in data science and artificial intelligence to join; whether you are interested in applications for your research, are studying the social scientific implications of AI and data or are working on fundamental methodologies.*
+
+- Social and professional networking opportunities
+- A range of events, including PhD seminars, work-in-progress talks, thematic workshops and careers events
+- Access to DSI facilities (meeting rooms, seminar room, and hot-desking workspaces)
+- Support for work and activities from our events and communications team
+
+**Launch Event:** 12.00pm to 1.30pm, Thursday 28 November 2024
+
+
+![](images/DSI_phd_affiliate_scheme.png){.absolute top=-250 right=50 width="200" height="200"}
+
+::: footer
+[LSE Data Science Institute](https://www.lse.ac.uk/DSI)
+:::
+
+
+
+# LSE Digital Skills Lab {auto-animate="true}
+
+
+- The **Digital Skills Lab** at LSE offers courses on essential tools and methods like Python, R, SQL, and data visualization software such as Tableau and NVivo
+- In person and online training sessions are available, covering a wide range of digital skills and tools
+- The Digital Skills Lab also provides support for students interested in digital research methods and data science valuable to a career outside of academia
+
+
+![](images/digital_skills_lab.png){.absolute top=-250 right=50 width="200" height="200"}
+
+
+::: footer
+[LSE Digital Skills Lab](https://info.lse.ac.uk/current-students/digital-skills-lab)
+:::
+
+
+# Student Wellbeing Services {auto-animate="true}
+
+*The Student Wellbeing Service works with you and the wider school to explore and manage challenges relating to disability, and to support your wellbeing so you can make the most of your LSE experience.*
+
+- Individual consultations, group sessions, and [24/7 crisis support](https://info.lse.ac.uk/current-students/student-wellbeing/out-of-hours-support) 
+- [Student Wellbeing and Counselling Services](https://info.lse.ac.uk/current-students/student-wellbeing/Student-Wellbeing-and-Counselling-Service)
+
+- [Peer Support](https://info.lse.ac.uk/current-students/student-wellbeing/students-supporting-students/peer-support)
+
+- [Studying at LSE with a Disability](https://info.lse.ac.uk/current-students/student-wellbeing/disability-wellbeing/Studying-at-LSE-with-a-Disability)
+
+- [Specific learning difficulties](https://info.lse.ac.uk/current-students/student-wellbeing/disability-wellbeing/specific-learning-difficulties)
+
+![](images/student_wellbeing.png){.absolute top=-250 right=50 width="200" height="200"}
+
+::: footer
+[LSE Student Wellbeing Services](https://info.lse.ac.uk/current-students/student-wellbeing)
+:::
+
+
+
+# Interdisciplinary Research Centres
+LSE PhD students have access to a wide range of interdisciplinary research centres, such as the **Grantham Research Institute on Climate Change** and the **International Inequalities Institute**. These centres provide vibrant research communities and connections with both academic and non-academic partners.
+
+
+
+# LSE SPRING Program
+The **LSE SPRING** initiative provides research collaborations with non-academic organizations, offering students work-based learning opportunities, mentoring, and placement support. Funded by the Higher Education Innovation Fund, it enhances knowledge exchange and innovation.
+
+# Bloomsbury Postgraduate Skills Network (BPSN)
+LSE participates in the **Bloomsbury Postgraduate Skills Network**, offering access to skills development workshops and training events across London-based universities. This broadens the professional and academic scope for PhD students.
+
+# Digital Skills Lab
+LSE’s **Digital Skills Lab** provides courses on essential tools and methods like Python, R, SQL, and data visualization software such as Tableau and NVivo. This helps students build foundational digital and data science skills.
+
+# Knowledge Exchange & Impact (KEI) Support
+The **Knowledge Exchange & Impact (KEI)** framework at LSE facilitates collaborations between PhD students and academic or non-academic partners, ensuring research impact and knowledge dissemination beyond academia.
+
+# LSE Generate
+Through **LSE Generate**, students can receive support for entrepreneurship and social enterprise projects. This initiative helps PhD students build socially responsible businesses and fosters an entrepreneurial spirit.
+
+# LSE Careers and PhD Academy
+LSE’s **PhD Academy** and **LSE Careers** collaborate to provide comprehensive career support. Students benefit from career consultancy services, internship placements, and training on professional and research skills, preparing them for diverse career paths.
+
+# Mental Health & Wellbeing Support
+LSE provides a **Student Wellbeing Service** offering mental health and disability support. This includes individual consultations, group sessions, and 24/7 crisis support to ensure students’ physical and mental well-being.
+
+# 10. LSE's International Engagement
+PhD students can engage internationally through LSE’s network of partner institutions, including **Sciences Po**, **University of Cape Town**, and **Berkeley**, providing opportunities for overseas research exchanges and collaboration.
+
+# Doctoral Training Partnership (DTP)
+LSE’s **Doctoral Training Partnership (DTP)** provides world-leading social science training. It focuses on developing diverse cohorts of students, equipping them with methodological skills and deep knowledge in their fields. 
+
+
+# Knowledge and intellectual abilities {auto-animate="true"}
+
+"Academic Research Institutes offer specialised training and development opportunities in different formats, including workshops, seminars, courses, and summer schools."
+
+Academic Research Institutes within the LSE:
+
+- Digital Skills Lab 
+- CIVICA 
+- Grantham Research Institute on Climate Change and the Environment (GRI)
+- Data Science Institute (DSI)
+- International Inequalities Institute
+- Centre For Macroeconomics
+
+
+
+- CIVICA ESR Course Catalogue 
+  - Hybrid and online courses in research methods and skills
+  - Substantive and subject-specific courses
+
+Learn more: [CIVICA](https://www.civica.eu/)
+
+![](CIVICA.png){.absolute bottom=0 right=50 width="300" height="300"}
+
+
+::: footer
+Knowledge and intellectual abilities
+:::
+
+
+
+
+# CIVICA {auto-animate="true"}
+
+
+
+::: footer
+Knowledge and intellectual abilities
+:::
+
+
+
+
+# Funding {auto-animate="true"}
+
+
+
+::: footer
+Research governance and organisation
+:::
+
+
+
+
+
+# Personal effectiveness {auto-animate="true"}
+
+
+
+# Research governance and organisation {auto-animate="true"}
+
+
+
+# Engagement, influence, and impact {auto-animate="true"}
+
+
+
+  
+
+
+# Introduction {auto-animate="true"}
+ 
+
+- Introduction to Methodology
+  - The pre-eminent centre for methodological training in the social sciences
+  - Research and teaching specialisms including qualitative, quantitative, and mixed-methods training, including statistical and computational approaches
+  - Diverse training and development opportunities in different formats (e.g. workshops, seminars, courses, and summer schools)
+  - Opportunities to engage with cutting-edge research and methodologies
+
+# Introduction {auto-animate="true"}
+ 
+
+
+
+
+
+- Previous Workshops
+---
+
+
+
+Workshops from last year: 
+
+Questionnaire Design 1 (PB411)
+Questionnaire Design 2 (PB411)
+Design of Experiments 1 (PB411)
+Applied Bayesian Data Analysis for Social Science
+Design of Experiments 2 (PB411)
+Introduction to Social Network Analysis
+Understanding Research Integrity
+Agent Based Modelling
+In-Depth Interviewing
+Thematic Analysis
+Reproducible Pipelines for Social Scientific Research in R
+Conjoint Survey experiments 
+Researching wealth and inequality in the global South
+Small-n Case Studies and Comparative Analysis
+Process Tracing
+How to analyse data from population registers and other administrative sources
+Fieldwork Preparation and Logistics: Budgets, Ethics, Participant Recruitment
