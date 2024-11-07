@@ -1,5 +1,5 @@
 ---
-title: "Doctoral Training Program Workshop"
+title: "Doctoral Training Partnership Workshop"
 subtitle: "Welcome to the LSE!"
 author: Dr. Zachary Dickson
 institute: London School of Economics
