@@ -18,14 +18,6 @@ format:
 
 
 
-# Outline {auto-animate="true"}
-- The Department of Methodology
-  - Offerings
-  - Workshops
-- Offerings from the University
-- Development Needs Analysis (DNA)
-
-
 
 
 
@@ -37,13 +29,10 @@ format:
 - The Department of Methodology
    - Different offerings and workshops
 - Offerings from the University
-- LSE's Doctoral Training Program
-- Development Needs Analysis (DNA)
 
 
-- *fix the QR code to link to the slide show on Github*
 
-![](images/CIVICA.png){.absolute top=100 right=50 width="300" height="300"}
+![](images/MYslides.png){.absolute top=100 right=50 width="300" height="300"}
 
 
 ---
@@ -59,7 +48,7 @@ format:
 - Leading researchers in sociology, political science, international relations, anthropology, economics, psychology, criminology, and statistics
   - Opportunities to engage with cutting-edge research and methodologies
 
-![](images/dept_of_methodology.png){.absolute top=-300 right=50 width="200" height="200"}
+![](images/dept_of_methodology.png){.absolute top=-170 right=50 width="200" height="200"}
 
 ::: footer
 [LSE Department of Methodology](https://www.lse.ac.uk/methodology)
@@ -115,7 +104,7 @@ format:
 **Launch Event:** 12.00pm to 1.30pm, Thursday 28 November 2024
 
 
-![](images/DSI_phd_affiliate_scheme.png){.absolute top=-250 right=50 width="200" height="200"}
+![](images/DSI_phd_affiliate_scheme.png){.absolute top=-150 right=50 width="200" height="200"}
 
 ::: footer
 [LSE Data Science Institute](https://www.lse.ac.uk/DSI)
@@ -193,7 +182,7 @@ format:
 - [PhD Support Grants](https://www.lse.ac.uk/granthaminstitute/about/work-and-study/)
 
 
-![](images/gri.png){.absolute top=-200 left=20 width="400" height="120"}
+![](images/gri.png){.absolute top=-130 left=20 width="350" height="100"}
 
 ![](images/grantham_research_institute.png){.absolute top=320 right=50 width="200" height="200"}
 
@@ -205,9 +194,15 @@ format:
 
 # Additional Resources {auto-animate="true"}
 
+- [Support for International Students](https://www.lse.ac.uk/study-at-lse/international-students)
+  - Personalised support for international students
+
 - [LSE Library](https://www.lse.ac.uk/library)
   - The LSE Library is one of the largest social science libraries in the world, with extensive collections of print and electronic resources, including books, journals, and databases
 - [LSE Blogs](https://blogs.lse.ac.uk/)
   - LSE Blogs is a platform for academics, researchers, and students to share their research and expertise with a global audience
-  
+  - Example... 
+
+
+# Thanks! <br><br> And welcome to LSE! {auto-animate="true"}
 
