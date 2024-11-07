@@ -73,11 +73,13 @@ format:
 - [**Methodology Courses**](https://www.lse.ac.uk/Methodology/Study/Methodology-Courses) 
   - The Department of Methodology offers a range of courses in research methods and techniques, including qualitative, quantitative, and mixed-methods approaches. 
 
-- [**Short Courses**](https://www.lse.ac.uk/Methodology/Methods-training/Methods-Short-Courses)
-  - Methodology Short Courses are designed to provide students with a comprehensive understanding of research methods and techniques. These courses are open to all LSE students and staff
-
 - [**Methods Surgery** ](https://www.lse.ac.uk/Methodology/Methods-Surgery/Methods-surgery)
   - The Methods Surgery is a drop-in session where students can get advice on research design, data collection, and analysis from experienced researchers
+
+- [**Short Courses**](https://www.lse.ac.uk/Methodology/Methods-training/Methods-Short-Courses)
+  - Methodology Short Courses are designed to provide students with a comprehensive understanding of research methods and techniques. These courses are open to all LSE students and staff
+  - Some examples... 
+
 
 
 ::: footer
@@ -159,3 +161,53 @@ format:
 
 
 # Interdisciplinary Research Centres {auto-animate="true}
+
+- [Research Centres, Departmental Research Units and Recognised Groups](https://info.lse.ac.uk/staff/research-centres-and-groups)
+  - Research Centres are specialist research initiatives operating under the supervision of the LSE’s Research Committee. Most are linked to a ‘parent’ Department, though some are organised on a School-wide basis
+
+
+**Some Research Centres include:**
+
+- [Centre for Analysis of Risk and Regulation (CARR)](https://www.lse.ac.uk/accounting/CARR)
+- [Centre for Economic Performance (CEP)](http://cep.lse.ac.uk/)
+- [Centre for Women, Peace and Security](https://www.lse.ac.uk/women-peace-security)
+- [LSE Cities](https://www.lse.ac.uk/cities)
+- And many more! 
+
+![](images/research_centres.png){.absolute top=250 right=150 width="200" height="200"}
+
+::: footer
+[LSE Research Centres, Departmental Research Units and Recognised Groups](https://info.lse.ac.uk/staff/research-centres-and-groups)
+:::
+
+
+
+# Grantham Research Institute on Climate Change and the Environment {auto-animate="true"}
+
+
+*The Grantham Research Institute is a world-leading multidisciplinary centre for policy-relevant research and training on climate change and the environment, bringing together international expertise from across LSE and beyond, including on economics, finance, geography, the environment, science, law, international relations, development and political science.*
+
+- Policy-relevant research on climate change and the environment
+- Collaboration with policymakers, business, and civil society
+- Engagement with the public through events, media, and publications
+- [PhD Support Grants](https://www.lse.ac.uk/granthaminstitute/about/work-and-study/)
+
+
+![](images/gri.png){.absolute top=-200 left=20 width="400" height="120"}
+
+![](images/grantham_research_institute.png){.absolute top=320 right=50 width="200" height="200"}
+
+::: footer
+[**Grantham Research Institute on Climate Change and the Environment**](https://www.lse.ac.uk/granthaminstitute/)
+:::
+
+
+
+# Additional Resources {auto-animate="true"}
+
+- [LSE Library](https://www.lse.ac.uk/library)
+  - The LSE Library is one of the largest social science libraries in the world, with extensive collections of print and electronic resources, including books, journals, and databases
+- [LSE Blogs](https://blogs.lse.ac.uk/)
+  - LSE Blogs is a platform for academics, researchers, and students to share their research and expertise with a global audience
+  
+
