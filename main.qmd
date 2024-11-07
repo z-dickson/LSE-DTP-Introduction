@@ -120,7 +120,7 @@ format:
 - The Digital Skills Lab also provides support for students interested in digital research methods and data science valuable to a career outside of academia
 
 
-![](images/digital_skills_lab.png){.absolute top=-250 right=50 width="200" height="200"}
+![](images/digital_skills_lab.png){.absolute top=-200 right=50 width="200" height="200"}
 
 
 ::: footer
@@ -141,7 +141,7 @@ format:
 
 - [Specific learning difficulties](https://info.lse.ac.uk/current-students/student-wellbeing/disability-wellbeing/specific-learning-difficulties)
 
-![](images/student_wellbeing.png){.absolute top=-250 right=50 width="200" height="200"}
+![](images/student_wellbeing.png){.absolute top=-200 right=50 width="200" height="200"}
 
 ::: footer
 [LSE Student Wellbeing Services](https://info.lse.ac.uk/current-students/student-wellbeing)
